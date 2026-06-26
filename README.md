@@ -3,11 +3,11 @@
 
 ## 📸 Screenshots
 
--   Home Page
--   Resume Analysis Result
--   Skill Detection
--   Resume Score Dashboard
--   Suggestions Panel
+-   Home Page-<img width="831" height="502" alt="image" src="https://github.com/user-attachments/assets/0c4beb33-18da-4e83-ad94-5d001d8b40e7" />
+
+-   Resume Analysis Result-<img width="657" height="501" alt="image" src="https://github.com/user-attachments/assets/4c8cfc63-da89-4506-8da4-6abe5ba21c81" />
+
+
 
 ## 📖 Overview
 
