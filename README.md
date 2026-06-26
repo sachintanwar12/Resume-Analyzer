@@ -1,4 +1,17 @@
 # Resume-Analyzer
-📸 Screenshots
-<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/35bd674e-e181-4179-bc40-938391a21a3e" />
+📖 Overview
+
+The AI Resume Analyzer is a web-based application that analyzes a user's resume by detecting technical skills, calculating a resume score, identifying missing skills, and providing improvement suggestions. It helps students and job seekers evaluate their resumes before applying for jobs.
+
+📂 Repository 
+Resume-Analyzer/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── screenshots/
+├── README.md
+└── LICENSE
 
