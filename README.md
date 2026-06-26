@@ -22,8 +22,8 @@ for jobs.
 ``` text
 Resume-Analyzer/
 ├── index.html
-├── style.css
-├── script.js
+├── result.html
+├── app.py
 ├── assets/
 │   ├── images/
 │   └── screenshots/
@@ -50,7 +50,7 @@ Resume-Analyzer/
 
 -   HTML5
 -   CSS3
--   JavaScript (ES6)
+-   Pythnon(flask)
 
 ### Design
 
@@ -92,12 +92,7 @@ Open `index.html` in your browser.
 HTML, CSS, JavaScript, Python, Java, React, Node.js, Express.js,
 MongoDB, MySQL, PHP, Git, GitHub, Bootstrap, Tailwind CSS, SQL.
 
-## 📸 Screenshots
 
--   Home Page
--   Analysis Result
--   Skill Detection
--   Suggestions
 
 ## 📈 Future Improvements
 
@@ -116,9 +111,7 @@ MongoDB, MySQL, PHP, Git, GitHub, Bootstrap, Tailwind CSS, SQL.
 4.  Push
 5.  Open a Pull Request
 
-## 📄 License
 
-MIT License
 
 ## 👨‍💻 Author
 
